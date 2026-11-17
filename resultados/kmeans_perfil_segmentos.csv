@@ -1,0 +1,5 @@
+.cluster,registros,kg_mediana,usd_kg_mediana,toneladas,pct_toneladas,segmento
+Cluster_1,1155,500,3.15,946,0.8,Pequeños y caros (selección)
+Cluster_2,1826,972,0.81,2385,2,Pequeños y baratos
+Cluster_3,1194,17742.6688,2.17,29841,24.4,Grandes y caros
+Cluster_4,1928,23227,0.54,89115,72.9,Grandes y baratos (granel)

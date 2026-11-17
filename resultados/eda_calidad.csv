@@ -1,0 +1,17 @@
+variable,faltantes,pct_faltantes
+anio,0,0
+mes,0,0
+aduana,0,0
+via,0,0
+pais_origen,0,0
+continente,0,0
+origen_no_precisado,0,0
+triangulado,0,0
+clausula,513,8.4
+subpartida,0,0
+kg,0,0
+log_kg,0,0
+CIF_US,0,0
+usd_kg,0,0
+log_usd_kg,0,0
+origen_no_precisado (país 904),1601,26.2
